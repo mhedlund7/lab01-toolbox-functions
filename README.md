@@ -1,6 +1,6 @@
 # Lab01: Toolbox Functions
 
-In this lab I practiced using basic graphics related toolbox functions like bias, gain, waves, and noise to replicate the provided simple flower graphics in shadertoy.
+In this lab I practiced using basic graphics related toolbox functions like bias, gain, waves, and noise to replicate the provided simple graphics in shadertoy.
 
 | <img src="https://user-images.githubusercontent.com/1758825/133500768-45b053c2-1885-4108-84a8-4cbf3f10318d.gif" width="400"/> | <img src="Images/flower1.gif" width="400"/> |
 |:--:|:--:|
